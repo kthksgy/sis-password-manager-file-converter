@@ -146,7 +146,7 @@ fn main() {
             "name": record.title,
             "notes": record.remarks,
             "favorite": false,
-            "fields": [],
+            "fields": fields,
             "login": {
                 "fido2Credentials": [],
                 "uris": uris,
